@@ -1,8 +1,8 @@
 <div align="center">  Hello World!
 
- 👋 Hi, my name is Delia! <br>
- Studying to be a System Developer.NET at Tuc Yrkehögskola in Linköping <br>
- 🌱 I’m currently learning Umbraco <br>
+ 👋 My name is Delia! <br>
+ Right now I'm studying to become a System Developer.NET <br>
+ 🌱 Currently learning Umbraco <br>
 
  📫 How to reach me : delia.grenstadius@gmail.com<br>
  Or you can follow me at https://www.linkedin.com/in/delia-grenstadius/
