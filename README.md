@@ -1,4 +1,4 @@
-<div align="center"> </div> Hello World!
+<div align="center">  Hello World!
 
 - 👋 Hi, my name is Delia Nicoleta Cirstea Grenstadius
 - Studying to be a System Developer.NET at Tuc Yrkehögskola in Linköping
