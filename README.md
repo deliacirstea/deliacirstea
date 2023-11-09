@@ -1,6 +1,6 @@
 <div align="center">  Hello World!
 
- 👋 Hi, my name is Delia Nicoleta Cirstea Grenstadius
+ 👋 Hi, my name is Delia!
  Studying to be a System Developer.NET at Tuc Yrkehögskola in Linköping
  🌱 I’m currently learning Umbraco
 
