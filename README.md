@@ -1,8 +1,8 @@
 <div align="center">  Hello World!
 
  👋 My name is Delia! <br>
-  I'm studying to become a System Developer.NET 👩‍🎓 <br>
- 🌱 Currently doing my internship with Accelerate at Iver<br>
+ System Developer.NET 👩‍🎓 <br>
+ 🌱 Currently working at Accelerate at Iver<br>
 
  📫 How to reach me : delia.grenstadius@gmail.com<br>
  Or you can follow me at https://www.linkedin.com/in/delia-grenstadius/
